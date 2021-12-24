@@ -5,3 +5,5 @@ This is the code for the Final Project of the CS238: Decision Making Under Uncer
 We optimized wind turbine placement in a wind farm, subject to wake effects, using Q-learning. I worked especially on utilizing Q-learning in conjunction with Neural Networks to estimate the Q-values of unvisited states. 
 
 You can access the full paper describing our approach and results at https://drive.google.com/file/d/15MCL6OeTj8P80_Ocusb9sRbDNX6kNciD/view?usp=sharing.
+
+Our paper was also added to the course website: https://web.stanford.edu/class/aa228/cgi-bin/wp/old-projects/.
