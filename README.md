@@ -1,2 +1,2 @@
 # cs238-windfarm
-Final Project for CS238: Decision Making Under Uncertainty course (https://web.stanford.edu/class/aa228/cgi-bin/wp/). We optimized wind turbine placement in a wind farm, subject to wake effects, using Q-learning.
+Final Project for CS238: Decision Making Under Uncertainty course at Stanford University (https://web.stanford.edu/class/aa228/cgi-bin/wp/). We optimized wind turbine placement in a wind farm, subject to wake effects, using Q-learning. For this project, I collaborated with Yu Shen Lu and Peiyun Zhu. You can access the full paper describing our approach and results at https://drive.google.com/file/d/15MCL6OeTj8P80_Ocusb9sRbDNX6kNciD/view?usp=sharing.
